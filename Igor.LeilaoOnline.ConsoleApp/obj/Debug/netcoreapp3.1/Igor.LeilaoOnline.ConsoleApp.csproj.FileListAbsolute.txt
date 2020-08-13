@@ -1,0 +1,16 @@
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.exe
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.dll
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.pdb
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.Core.dll
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Igor.LeilaoOnline.Core.pdb
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.dll
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.pdb
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Igor.LeilaoOnline.ConsoleApp.genruntimeconfig.cache

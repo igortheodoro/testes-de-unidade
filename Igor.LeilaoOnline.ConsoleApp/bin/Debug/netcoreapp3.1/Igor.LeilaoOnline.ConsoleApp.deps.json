@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Igor.LeilaoOnline.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Igor.LeilaoOnline.Core": "1.0.0"
+        },
+        "runtime": {
+          "Igor.LeilaoOnline.ConsoleApp.dll": {}
+        }
+      },
+      "Igor.LeilaoOnline.Core/1.0.0": {
+        "runtime": {
+          "Igor.LeilaoOnline.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Igor.LeilaoOnline.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Igor.LeilaoOnline.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

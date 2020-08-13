@@ -1,0 +1,9 @@
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\bin\Debug\netstandard2.0\Igor.LeilaoOnline.Core.deps.json
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\bin\Debug\netstandard2.0\Igor.LeilaoOnline.Core.dll
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\bin\Debug\netstandard2.0\Igor.LeilaoOnline.Core.pdb
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\obj\Debug\netstandard2.0\Igor.LeilaoOnline.Core.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\obj\Debug\netstandard2.0\Igor.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\obj\Debug\netstandard2.0\Igor.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\obj\Debug\netstandard2.0\Igor.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\obj\Debug\netstandard2.0\Igor.LeilaoOnline.Core.dll
+C:\Users\igort\Desktop\Entity\Solution1\Igor.LeilaoOnline.Core\obj\Debug\netstandard2.0\Igor.LeilaoOnline.Core.pdb
