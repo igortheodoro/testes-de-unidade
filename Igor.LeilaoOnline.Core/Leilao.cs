@@ -7,6 +7,7 @@ namespace Igor.LeilaoOnline.Core
 {
     public enum EstadoLeilao
     {
+        LeilaoAntesDoPregao,
         LeilaoEmAndamento,
         LeilaoFinalizado
     }
@@ -17,35 +18,39 @@ namespace Igor.LeilaoOnline.Core
         public string Peca { get; }
         public Lance Ganhador { get; private set; }
         public EstadoLeilao Estado { get; private set; }
+        private Interessada UltimoCliente { get; set; }
 
         public Leilao(string peca)
         {
             Peca = peca;
             _lances = new List<Lance>();
-            Estado = EstadoLeilao.LeilaoEmAndamento;
+            Estado = EstadoLeilao.LeilaoAntesDoPregao;
         }
 
         public void RecebeLance(Interessada cliente, double valor)
         {
             if (Estado == EstadoLeilao.LeilaoEmAndamento)
             {
-                _lances.Add(new Lance(cliente, valor));
+                if (cliente != UltimoCliente)
+                {
+                    _lances.Add(new Lance(cliente, valor));
+                    UltimoCliente = cliente;
+                }
             }
         }
 
         public void IniciaPregao()
         {
-
+            Estado = EstadoLeilao.LeilaoEmAndamento;
         }
 
         public void TerminaPregao()
         {
-            Estado = EstadoLeilao.LeilaoFinalizado;
-
             Ganhador = _lances
                 .DefaultIfEmpty(new Lance(null,0))
                 .OrderBy(l => l.Valor)
                 .LastOrDefault();
+            Estado = EstadoLeilao.LeilaoFinalizado;
         }
     }
 }

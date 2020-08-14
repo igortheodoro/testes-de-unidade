@@ -19,10 +19,23 @@ namespace Igor.LeilaoOnline.Testes
             var leilao = new Leilao("Van Gogh");
 
             var Joao = new Interessada("João", leilao);
+            var Maria = new Interessada("Maria", leilao);
+
+            bool vezDaMaria = false;
+
+            leilao.IniciaPregao();
 
             foreach (var item in ofertas)
             {
-                leilao.RecebeLance(Joao, item);
+                if (vezDaMaria)
+                {
+                    leilao.RecebeLance(Maria, item);
+                }
+                else
+                {
+                    leilao.RecebeLance(Joao, item);
+                }
+                vezDaMaria = !vezDaMaria;
             }
 
             //Act
@@ -39,6 +52,7 @@ namespace Igor.LeilaoOnline.Testes
         {
             //Arranje
             var leilao = new Leilao("Roupa Jackson 5");
+            leilao.IniciaPregao();
 
             //Act
             leilao.TerminaPregao();
